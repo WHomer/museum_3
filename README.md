@@ -1,19 +1,6 @@
 # Museum
 
-## Instructions
-
-* Fork this Repository
-* Clone your forked repo to your computer.
-* Complete the activity below.
-* Push your solution to your forked repo
-* Submit a pull request from your repository to this repository
- * Put your name in the title of the PR!
- * Indicate which iteration you completed (this includes passing tests) in the body of the PR.
- 
 ### Iteration 1
-
-Use TDD to create an `Exhibit` and a `Patron` class that respond to the following interaction pattern:
-
 ```ruby
 pry(main)> require './lib/exhibit'
 # => true
